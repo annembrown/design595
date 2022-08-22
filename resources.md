@@ -1,8 +1,9 @@
 # Resources 
-### UX Design
+### UI/UX Design
 - [Website Design Process](https://github.com/annembrown/design595/blob/main/website_design_process.md) 
 - [Brad Frost Atomic Web Design](https://vimeo.com/179245570) & [Atomic Web Design ebook](https://atomicdesign.bradfrost.com/table-of-contents/) 
 - [User Experience for Product Designers](https://medium.com/looks-good-feels-good/user-experience-for-product-designers-e9fa621ce3bc#.dpl1j7p0l) 
+- [Adobe XD Landing Page Design Tutorial](https://www.youtube.com/watch?v=KLCmXOdPw5o&feature=share)
 - [Designing Case Studies](https://www.smashingmagazine.com/2015/02/designing-case-studies-human-centered-design-process/)
 - [10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/)
 - [NNGroup](nngroup.com) *(Awesome research based UX articles)* 
