@@ -3,7 +3,7 @@
 **Instructor:** Anne Brown - annebrowndesign@gmail.com
 
 ## Class Documents 
-[Design 595 Fall 2022 Course Outline](https://github.com/annembrown/design595/blob/main/coure_outline.md) <br>
+[Course Outline](https://github.com/annembrown/design595/blob/main/coure_outline.md) <br>
 VCD Student Information Handout <br>
 Class Lecture Presentations
 
