@@ -1,10 +1,11 @@
-# Communication Design of Interactive Media I Design 595 | Fall 2021 Course Outline  
-Instructor: Bryan Kulba - bryan@kobot.ca  
-Course website: [github.com/bryankulba/design595](https://github.com/bryankulba/design595)
+# Communication Design of Interactive Media I Design 595 - Fall 2021 Course Outline  
+**University of ALberta**
+**Instructor:** Anne Brown - annebrowndesign@gmail.com
+**Course website:** [github.com/annembrown/design595](https://github.com/annembrown/design595
 
-## Course description — University of Alberta Calendar
-Design for information, education and instruction using multimedia, Navigation, interface design in the context of human-machine interaction. Complex information systems, project planning and development strategies.
-## What you will get out of this course
+## Course Description 
+Design for information, education and instruction using multimedia, navigation, interface design in the context of human-machine interaction. Complex information systems, project planning and development strategies.
+## What You'll Get
 - Grow skills which will help you fulfil a role in a studio or freelance 
 - Basic html/css code literacy 
 - Proficiency with Adobe XD (or Sketch) as a user interface design and prototyping tool 
@@ -28,7 +29,7 @@ The primary criterion for assessment and grading is the quality of the completed
 A progress grade will be provided mid-term and / or at the end of each project. A tentative final grade will be given at the end of the course. (Grades are tentative until they become registered at the Registrar’s Office.)
 
 Circumstances may develop during the term where a change to the course outline is necessary. Changes to the course outline, including possible changes to the nature and requirements of projects, will occur, only with fair notice, or general class consent. (See Section 61.6 (a) of the GFC Policy Manual) Policy regarding course outlines can be found in § 23.4(2) of the University Calendar. (GFC 29 SEP 2003). If you have a concern about the general course information, or any other aspect of the course, you are advised to consult, in turn, the instructor, the VCD coordinator, the Chair of the Department of Art & Design, and the Dean of the Faculty of Arts.
-## Evaluation criteria include, but are not limited to:
+#### Evaluation criteria include, but are not limited to:
 - Proficiency and clarity of proposed response to the project brief 
 - Quality of technical components 
 - Quality / quantity of class participation 
@@ -40,7 +41,8 @@ Projects for the final portfolio may be revised, the final grade will be a combi
 
 Portions of grades may be arrived at using non-mathematical means.
 ## Fine Print
-In the event that there are adjustments to the course outline, projects, schedule or resources, the course website ([github.com/bryankulba/design595](https://github.com/bryankulba/design595)) should be considered the canonical reference.
+A number of online resources that can be used to support projects, assigments and further learning can be found here: https://github.com/annembrown/design595/blob/main/resources.md.
+
 ## The grading system at the University of Alberta is as follows:
 A+ / A / A- = Excellent  
 B+ / B / B- = Good  
