@@ -15,7 +15,7 @@ Class Lecture Presentations
 ## Assignments 
 [**Assignment 1** - UI Scavenger Hunt](https://github.com/annembrown/design595/blob/main/assignment1.md) <br>
 [**Assignment 2** - Website Audit](https://github.com/annembrown/design595/blob/main/assignment2.md) <br>
-**Assignment 3** - Usability Test<br>
+[**Assignment 3** - Usability Test](https://github.com/annembrown/design595/blob/main/assignment3.md) <br>
 
 ## Important Dates  
 **Project 1 Due** - <br>
