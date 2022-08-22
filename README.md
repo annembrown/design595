@@ -18,11 +18,15 @@ Class Lecture Presentations
 [**Assignment 3** - Usability Test](https://github.com/annembrown/design595/blob/main/assignment3.md) <br>
 
 ## Important Dates  
-**Project 1 Due** - <br>
-**Project 2 Due** - <br>
-**Project 3 Due** - <br>
-**Portfolio Hand-in** - <br>
-**Interview** - <br>
+**Assignment 1 Due** - Thursday, September 15<br>
+**Project 1 Due** - Thursday, September 29 <br>
+**Assignment 2 Due** - Thursday, October 6<br>
+**Assignment 3 Due** - Thursday, October 27<br>
+*(Reading Week November 7 – 11)* <br>
+**Project 2 Due** - Thursday, November 17<br> 
+**Last Class** - Thursday, December 8 <br>
+**Project 3 Due & Portfolio Hand-in** - Thurday, December 15 <br>
+**Interview** - Thurday, December 22<br>
 
 ## Resources
 A number of online resources that can be used to support projects, assigments and further learning can be found here: https://github.com/annembrown/design595/blob/main/resources.md.
