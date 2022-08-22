@@ -24,20 +24,27 @@ Class Lecture Presentations
 **Portfolio Hand-in** - <br>
 **Interview** - <br>
 
-## Resources #
-- [Codepen](https://codepen.io/) (sign up for your own account)
-- Website Design Process 
-- Sample Interview Questions 
-- Brad Frost Atomic Web Design 
-- Writing a bio
-- Design Better - Great resource for app and product design 
-- DesignKit - Human Centered Design Processes and Tutorials 
-- Designing Case Studies: Showcasing A Human-Centered Design Process 
-- Minimum Viable Ethnography 
-- Creating Successful Product Flows 
-- User Experience for Product Designers 
-- Design a landing page 
-- Atomic Web Design ebook 
+## Resources 
+#### UI & UX Design
+- [Website Design Process](https://github.com/annembrown/design595/blob/main/website_design_process.md) 
+- [Brad Frost Atomic Web Design](https://vimeo.com/179245570) & [Atomic Web Design ebook](https://atomicdesign.bradfrost.com/table-of-contents/) 
+- [Design Better](https://www.designbetter.co/) (Great resource for app and product design) 
+- [Creating Successful Product Flows](https://medium.com/@ryanglasgow/creating-successful-product-flows-c41ffbce49a1#.gwnuwmgkz) 
+- [User Experience for Product Designers](https://medium.com/looks-good-feels-good/user-experience-for-product-designers-e9fa621ce3bc#.dpl1j7p0l) 
+- [Wireframing a Landing Page](https://marketingexperiments.com/conversion-marketing/how-to-wireframe-a-landing-page) 
+- [Designing Case Studies](https://www.smashingmagazine.com/2015/02/designing-case-studies-human-centered-design-process/)
+
+#### HTML & CSS
+- [Codepen](https://codepen.io/) (Sign up for your own account)
+
+#### Content
+- [How to Write a Bio](https://creativecloud.adobe.com/discover/article/how-to-write-a-professional-bio)
+
+#### User Testing
+- [Sample Interview Questions](https://github.com/annembrown/design595/blob/main/interview-questions.md) 
+
+#### Blogs
+- [Design Better](https://www.designbetter.co/) (Great resource for app and product design) 
 
 ## Fine Print 
 In the event that there are adjustments to the course outline, projects, schedule or resources, the course website (https://github.com/annembrown/design595) should be considered the canonical reference.
