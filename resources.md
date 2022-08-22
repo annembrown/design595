@@ -24,10 +24,10 @@
 - [BOOM. Happy type.](https://www.kobot.ca/blog/boom-happy-type/)   
 - [Web Fonts](https://css-tricks.com/understanding-web-fonts-getting/)  
 
-### Mood Boards
+### Moodboards
 - [Styletiles and How They Work](https://alistapart.com/article/style-tiles-and-how-they-work/)  
 - [Styletile Examples](https://dribbble.com/tags/style_tile)  
-- [How to Enhance UX Design with Mood Boards](https://xd.adobe.com/ideas/process/ui-design/how-to-enhance-ux-design-with-mood-boards/)
+- [How to Enhance UX Design with Moodboards](https://xd.adobe.com/ideas/process/ui-design/how-to-enhance-ux-design-with-mood-boards/)
 
 ### Prototypes
 - [Design a Prototype in XD](https://www.youtube.com/watch?v=EJE-H69RZ2A)
