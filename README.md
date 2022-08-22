@@ -13,7 +13,7 @@ Class Lecture Presentations
 [**Project 3** - UX Challenge](https://github.com/annembrown/design595/blob/main/project3.md) <br>
 
 ## Assignments 
-**Assignment 1** - UI Scavenger Hunt <br>
+[**Assignment 1** - UI Scavenger Hunt](https://github.com/annembrown/design595/blob/main/assignment1.md) <br>
 **Assignment 2** - Website Audit <br>
 **Assignment 3** - Usability Test<br>
 
