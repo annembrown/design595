@@ -3,10 +3,8 @@ Design a simple landing page for a client. The first part of the project will be
 
 **This project is worth 30% of your final mark.**
 
-## Synopsis
-You have been approached by an established organization looking to create a microsite/landing page for a small project they have. The goal of the project is to inform specific users about a service or opportunity they are offering, provide a compelling case for the user to participate and finally have so signup or purchase functionality.
-
-In this project, you will go from research all the way to developing a clickable prototype of the website. You will not be expected to code it. 
+## Overview
+You have been approached by an established organization looking to create a microsite/landing page for a small project they have. The goal of the project is to inform specific users about a service or opportunity they are offering, provide a compelling case for the user to participate and finally have so signup or purchase functionality. In this project, you will go from research all the way to developing a clickable prototype of the website. You will not be expected to code it. 
 
 This will be a project where the early stages will be done in groups. All work for the projects will be done and delivered as a group up to, and including, the wireframes. Each student, however, will develop their own moodboards and clickable prototypes.
 
@@ -74,20 +72,25 @@ You won't have access to all the brand materials of visual materials that you mi
 - Take your own photography  
 
 ## Dates
-- Tuesday, October 5 - Project assigned    
-- Tuesday, October 12 - Hand in research process     
-- Tuesday, October 19- Present research brief to client      
-- Thursday, November 4 - Present planning deliverables to client    
-- Tuesday, November 16 - Project deliverables due   
+**Project Assigned:** Tuesday, October 4 <br>
+**Research Process Due:** Thursday, October 13 <br>
+**Present Research Brief:** Thursday, October 20 <br>
+**Present Planning Deliverables:** Thursday, November 3 <br>
+*(Reading Week November 7 – 11)*  
+**Project Due:** Thursday, November 17 
 
-## Client Descriptions & Teams
-Code Canada (Ladies Learning Code) -
-Bloom Cookie Co. -        
-The Grizzlar -   
-Illustration Conference - 
-SNAP Gallery -   
-Blood Drive -   
-EIFF Festival - 
+## Clients & Teams
+| Client | Designers | 
+|  -----  | ----- | 
+| Ladies Learning Code | TBD | 
+| Bloom Cookie Co. | TBD | 
+| The Grizzlar | TBD | 
+| Illustration Conference | TBD | 
+| SNAP Gallery | TBD |  
+| Blood Drive | TBD | 
+| EIFF Festival | TBD | 
+
+Client descriptions can be found here.
 
 ## Resources
 
