@@ -90,7 +90,7 @@ You won't have access to all the brand materials of visual materials that you mi
 | Blood Drive | TBD | 
 | EIFF Festival | TBD | 
 
-Client descriptions can be found here.
+Client briefs and project descriptions can be found here: 
 
 ## Resources
 
