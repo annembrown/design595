@@ -50,15 +50,17 @@ Class Lecture Presentations
 - [BOOM. Happy type.](https://www.kobot.ca/blog/boom-happy-type/)   
 - [Web Fonts](https://css-tricks.com/understanding-web-fonts-getting/)  
 
-#### Moodboards
-- [Styletiles](http://styletil.es/)   
+#### Mood Boards
 - [Styletiles and How They Work](https://alistapart.com/article/style-tiles-and-how-they-work/)  
 - [Styletile Examples](https://dribbble.com/tags/style_tile)  
+- [How to Enhance UX Design with Mood Boards](https://xd.adobe.com/ideas/process/ui-design/how-to-enhance-ux-design-with-mood-boards/)
 
 #### Prototypes
 - [Design a Prototype in XD](https://www.youtube.com/watch?v=EJE-H69RZ2A)
 - [Mastering Adobe XD](https://www.youtube.com/watch?v=wCxQ-hHnmGc)
 - [Creating a Website Prototype in XD](https://www.youtube.com/watch?v=gjNUwegxn1w)
+- [Learning Figma](https://help.figma.com/hc/en-us/categories/360002042553-Figma-design)
+- [Prototyping with Figma](https://www.figma.com/prototyping/)
 
 #### HTML & CSS
 - [Codepen](https://codepen.io/) (Sign up for your own account)
@@ -72,8 +74,10 @@ Class Lecture Presentations
 - [All Design Projects Should Start in a Google Doc](https://www.tedgoas.com/blog/design-in-google-docs/)   
 - [How to Write a Bio](https://creativecloud.adobe.com/discover/article/how-to-write-a-professional-bio)
 
-#### User Testing
+#### Interviews & User Testing
 - [Sample Interview Questions](https://github.com/annembrown/design595/blob/main/interview-questions.md) 
+- What is User Testing & How Do I Do it?
+- How to Run a Usability Testing Session
 
 ## Fine Print 
 In the event that there are adjustments to the course outline, projects, schedule or resources, the course website (https://github.com/annembrown/design595) should be considered the canonical reference.
