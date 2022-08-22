@@ -13,7 +13,7 @@ For your first project, you will create a simple landing page that includes a we
 - Plan out your landing page first by sketching some simple wireframe (on paper or in XD/Figma/Sketch)
 - Identify your audience
 - Write all the content for the page 
-- Develop a design language that you'll use for your website site (in XD/Figma/Sketch)
+- Develop a design language that you'll use for your website (in XD/Figma/Sketch)
 - Frame out all the content on html
 - Apply design to the webpage using CSS
 ## Considerations
