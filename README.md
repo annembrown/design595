@@ -10,7 +10,7 @@ Class Lecture Presentations
 ## Project Documents 
 [**Project 1** - Pleased to Meet You](https://github.com/annembrown/design595/blob/main/project1.md) <br>
 [**Project 2** - Landing Page](https://github.com/annembrown/design595/blob/main/project2.md) <br>
-**Project 3** - UX Challenge <br>
+[**Project 3** - UX Challenge](https://github.com/annembrown/design595/blob/main/project3.md) <br>
 
 ## Assignments 
 **Assignment 1** - UI Scavenger Hunt <br>
