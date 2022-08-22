@@ -25,8 +25,8 @@ Class Lecture Presentations
 *(Reading Week November 7 – 11)* <br>
 **Project 2 Due** - Thursday, November 17<br> 
 **Last Class** - Thursday, December 8 <br>
-**Project 3 Due & Portfolio Hand-in** - Thurday, December 15 <br>
-**Interview** - Thurday, December 22<br>
+**Project 3 Due & Portfolio Hand-in** - TBD <br>
+**Interview** - TBD<br>
 
 ## Resources
 A number of online resources that can be used to support projects, assigments and further learning can be found here: https://github.com/annembrown/design595/blob/main/resources.md.
