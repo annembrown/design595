@@ -65,6 +65,8 @@ Students require a GPA of 2.7 (B-) over all fall and winter courses to be promot
 
 Nothing in this course outline, syllabus or course web-site may override or contravene any Calendar regulation or GFC policy. In resolving any discrepancy, GFC policy and Calendar regulations will take precedence. (GFC 29 SEP 2003)
 
+Access the Univerisity of Alberta's full [Code of Student Behaviour](https://www.ualberta.ca/governance/resources/policies-standards-and-codes-of-conduct/code-of-student-behaviour.html). 
+
 Please read the VCD Student Information Handout.
 
 ## Fine Print
