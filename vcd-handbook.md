@@ -1,5 +1,5 @@
 # Visual Communication Design (VCD) Handbook
-Student Information | Fall 2022
+**Student Information | Fall 2022**
 
 Our program includes aspects of communication design, typography,
 imagemaking, illustration and interactive media for the creation of
