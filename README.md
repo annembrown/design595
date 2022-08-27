@@ -22,7 +22,7 @@ Class Lecture Presentations
 - **Project 1 Due:** Thursday, September 29 <br>
 - **Assignment 2 Due:** Thursday, October 6<br>
 - **Assignment 3 Due:** Thursday, October 27<br>
-- *(Reading Week November 7 – 11)* <br>
+- **Reading Week:** November 7 – 11 <br>
 - **Project 2 Due:** Thursday, November 17<br> 
 - **Last Day of Classes:** Thursday, December 8 <br>
 - **Project 3 Due & Portfolio Hand-in:** Thursday, December 15 4:00PM <br>
