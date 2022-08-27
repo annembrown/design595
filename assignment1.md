@@ -13,6 +13,7 @@ Think you know what makes a good button or footer? Prove it by finding what you 
 - mobile nav
 - sub nav
 - breadcrumb  
+- cart
 - footer  
 - search bar
 - button  
@@ -22,7 +23,7 @@ Think you know what makes a good button or footer? Prove it by finding what you 
 - contact form  
 - call to action  
 - logo garden  
-- customer testimonial  
+- customer testimonial 
 - accordion 
 - language select 
 - infographic  
