@@ -1,6 +1,6 @@
 # Fall 2022 Course Outline - Design 595 Communication Design of Interactive Media I
 **University of Alberta** <br>
-**Course Location, Days & Time:** FAB Room 2-38A, Tues & Thurs 2:00–4:50PM <br> 
+**Location, Days & Time:** FAB Room 2-38A, Tues & Thurs 2:00–4:50PM <br> 
 **Instructor:** Anne Brown - annebrowndesign@gmail.com <br>
 **Technician:** Cindy Couldwell - clc13@ualberta.ca <br>
 **Course website:** [github.com/annembrown/design595](https://github.com/annembrown/design595)
