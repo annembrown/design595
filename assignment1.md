@@ -8,6 +8,8 @@ Think you know what makes a good button or footer? Prove it by finding what you 
 5. Comment on 3 things that other students have shared, as to why you liked it or didn't.
 6. Upload a PDF of your document to the your folder in the [Class Google Drive](https://drive.google.com/drive/folders/1SjKroRLr_VBNwlM3DVFWo1PLAg9FTAtL?usp=sharing).
 
+**Assignment Due:** Thursday, September 15
+
 ## The UI List (Pick 10)
 - desktop nav
 - mobile nav
