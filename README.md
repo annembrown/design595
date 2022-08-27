@@ -1,12 +1,14 @@
 # Design 595 - Fall 2022 Course Files
 **University of Alberta** <br>
+**Location, Days & Time:** FAB Room 2-38A, Tues & Thurs 2:00–4:50PM <br> 
 **Instructor:** Anne Brown - annebrowndesign@gmail.com <br>
-**Technician:** Cindy Couldwell - clc13@ualberta.ca
+**Technician:** Cindy Couldwell - clc13@ualberta.ca <br>
+**Course website:** [github.com/annembrown/design595](https://github.com/annembrown/design595)
 
 ## Class Documents 
 [Course Outline](https://github.com/annembrown/design595/blob/main/coure_outline.md) <br>
 [VCD Student Information Handbook](https://github.com/annembrown/design595/blob/main/vcd-handbook.md)<br>
-Class Google Drive (Lecture Presentations & Project Hand-ins)
+[Class Google Drive](https://drive.google.com/drive/folders/1SjKroRLr_VBNwlM3DVFWo1PLAg9FTAtL?usp=sharing) (Lecture Presentations & Project Hand-ins)
 
 ## Project Documents 
 [**Project 1** - Pleased to Meet Me](https://github.com/annembrown/design595/blob/main/project1.md) <br>
