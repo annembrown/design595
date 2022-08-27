@@ -1,10 +1,11 @@
 # Design 595 - Fall 2022 Course Files
 **University of Alberta** <br>
-**Instructor:** Anne Brown - annebrowndesign@gmail.com
+**Instructor:** Anne Brown - annebrowndesign@gmail.com <br>
+**Technician:** Cindy Couldwell - clc13@ualberta.ca
 
 ## Class Documents 
 [Course Outline](https://github.com/annembrown/design595/blob/main/coure_outline.md) <br>
-VCD Student Information Handout <br>
+[VCD Student Information Handout](https://github.com/annembrown/design595/blob/main/vcd-handbook.md)<br>
 Class Google Drive (Lecture Presentations & Project Hand-ins)
 
 ## Project Documents 
