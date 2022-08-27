@@ -68,4 +68,4 @@ Nothing in this course outline, syllabus or course web-site may override or cont
 Please read the VCD Student Information Handout.
 
 ## Fine Print
-A number of online resources that can be used to support projects, assigments and further learning can be found here: https://github.com/annembrown/design595/blob/main/resources.md.
+In the event that there are adjustments to the course outline, projects, schedule or resources, the course website (https://github.com/annembrown/design595) should be considered the canonical reference.
