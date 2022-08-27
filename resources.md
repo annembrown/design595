@@ -51,5 +51,6 @@
 
 ### Interviews & User Testing
 - [Sample Interview Questions](https://github.com/annembrown/design595/blob/main/interview-questions.md) 
-- What is User Testing & How Do I Do it?
-- How to Run a Usability Testing Session
+- [Types of User Testing](https://github.com/annembrown/design595/blob/main/user-testing.md)
+- [How to Run a Usability Testing Session](https://github.com/annembrown/design595/blob/main/usability-test-facilitation.md)
+- [User Testing Script](https://github.com/annembrown/design595/blob/main/user-testing-script.md)
