@@ -9,13 +9,19 @@ For your final 595 project, you will be given a simple, open-ended brief to desi
 The minimum expectation is that you will go from research, to sitemap/wireframes/moodboards, all the way to developing a clickable prototype of a single **but complete** user flow through the digital experience. You will not be expected to code it. 
 
 ## Process 
-- 
+- Develop a research plan
+- Determine website goals and users personas
+- Plan the digital experience through the development of a sitemap and wireframes
+- Develop a brand and design language
+- Design the experience 
+- Create a clickable prototype out of your design
+- Create a case study that presents the final outcome
 
 ## Learning Concepts
 - Planning and designing a digital experience which answers a brief  
 - Basic research for web design project   
 - Audience identification and personas   
-- User Experience Flow sketching   
+- User experience flow development 
 - Wireframing     
 - Sitemap development   
 - Visual direction development (Moodboard/style-tile/stylescape)   
@@ -55,14 +61,14 @@ Get photography from places like Unsplash or other free stock sources. For produ
 - Don't design every page necessary for the website/app/kiosk/whatever; only the ones necessary to express a single, linear user flow through the experience. That said, the site map should inventory all the necessary pages for the organization to function.
 
 ## Deliverables
-- Research report brief (definition of audience, goals, strategies, user personas) - pdf
-- Planning documentation and presentation (site map, wireframes, brand and website moodboard) - presentation and pdf
-- Clickable prototype
-- Case Study (pdf)
+- Research Report (definition of audience, goals, strategies, user personas) 
+- Planning Documentation and Presentation (site map, wireframes, brand and moodboard)
+- Clickable Prototype
+- Case Study
 
 #### Stretch Goal Deliverables:
 - Two moodboards for the client to choose from
-- Create a prototype for desktop and mobile
+- Create a prototype for both desktop and mobile
 - Make your own icons or illustrations
 - Take your own photography
 
@@ -71,7 +77,7 @@ Get photography from places like Unsplash or other free stock sources. For produ
 **Strategy Brief Due:** Thursday, November 24 <br>
 **Present Planning Documents:** Tuesday, November 29 / Thursday, December 1 <br>
 **Present Prototype:** Thursday, December 8 <br>
-**Final Deliverables Due:** TBD <br>
+**Final Deliverables Due:** Thursday, December 15 at 4:00PM <br>
 
 ## Clients & Teams
 
