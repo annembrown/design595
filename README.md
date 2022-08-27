@@ -5,7 +5,7 @@
 
 ## Class Documents 
 [Course Outline](https://github.com/annembrown/design595/blob/main/coure_outline.md) <br>
-[VCD Student Information Handout](https://github.com/annembrown/design595/blob/main/vcd-handbook.md)<br>
+[VCD Student Information Handbook](https://github.com/annembrown/design595/blob/main/vcd-handbook.md)<br>
 Class Google Drive (Lecture Presentations & Project Hand-ins)
 
 ## Project Documents 
