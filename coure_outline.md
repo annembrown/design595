@@ -52,7 +52,7 @@ F = Fail. Required to withdraw
 or F(R) = Failure with Re-examination privilege 
 
 ## Project Delivery
-You will need to save all projects on your own memory stick for transfer to a laptop at each critique. You will be asked to save all work onto a single CD / DVD / stick for the portfolio.
+You will need to save all projects and assignments to your folder in the [Class Google Drive](https://drive.google.com/drive/folders/1SjKroRLr_VBNwlM3DVFWo1PLAg9FTAtL?usp=sharing) on the assigned project completion date.
 
 ## Departmental Guidelines
 #### Academic Integrity & Honesty
@@ -69,7 +69,7 @@ Nothing in this course outline, syllabus or course web-site may override or cont
 
 Access the Univerisity of Alberta's full [Code of Student Behaviour](https://www.ualberta.ca/governance/resources/policies-standards-and-codes-of-conduct/code-of-student-behaviour.html). 
 
-Please read the VCD Student Information Handout.
+Please read the [VCD Student Information Handout](https://github.com/annembrown/design595/blob/main/vcd-handbook.md).
 
 ## Fine Print
 In the event that there are adjustments to the course outline, projects, schedule or resources, the course website (https://github.com/annembrown/design595) should be considered the canonical reference.
