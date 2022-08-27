@@ -1,26 +1,26 @@
 # Design 595 Project 2: Landing an Impression
-Design a simple landing page for a client. The first part of the project will be done in groups. <br>
+Design a simple landing page for a client. <br>
 
 **This project is worth 30% of your final mark.**
 
 ## Overview
 You have been approached by an established organization looking to create a microsite/landing page for a small project they have. The goal of the project is to inform specific users about a service or opportunity they are offering, provide a compelling case for the user to participate and finally have so signup or purchase functionality. In this project, you will go from research all the way to developing a clickable prototype of the website. You will not be expected to code it. 
 
-This will be a project where the early stages will be done in groups. All work for the projects will be done and delivered as a group up to, and including, the wireframes. Each student, however, will develop their own moodboards and clickable prototypes.
+**The first part of the project will be done in groups.** All work for the projects will be done and delivered as a group up to, and including, the wireframes. Each student, however, will develop their own moodboards and clickable prototypes.
 
 ## Process
 - Develop a research plan 
 - Determine website goals and users personas
 - Plan out your landing page by developing user flows and wireframes 
 - Develop a design language that you'll use for your website 
-- Design you landing page
+- Design the landing page
 - Create a clickable prototype out of your design
 
 ## Learning Concepts
 - Planning and designing a simple landing page with a signup form
 - Basic research for web design project
 - Audience identification and personas
-- User Experience Flow sketching
+- User experience flow development
 - Wireframing
 - Visual direction development (Moodboard/style-tile/stylescape)
 - Clickable Prototype development
@@ -28,7 +28,7 @@ This will be a project where the early stages will be done in groups. All work f
 ## Project Details
 
 #### Client
-There will be no real client, so we're doing two things. The instructor and TA will the client contact for the project. You can ask either any questions and they can offer feedback on any stage of the process. Presentations for the research and planning will be made to the instructor and the TA.
+There will be no real client, so the instructor and TA will the client contact for the project. You can ask either any questions and they can offer feedback on any stage of the process. Presentations for the research and planning will be made to the instructor and the TA.
 
 #### Research
 Since there's no real organization to interview, you can skip this stage of research, but as part of the research process deliverable, you will include a list of questions you would ask if they were real.
@@ -63,8 +63,8 @@ You won't have access to all the brand materials of visual materials that you mi
 - Research Report Brief (Definition of audience, user personas, website goals, strategies) 
 #### Per Individuals:
 - Planning Documentation (User flow diagrams, wireframes, moodboards) 
-- Clickable prototype 
-- Learning reflection
+- Design as a Clickable Prototype 
+- Learning Reflection (1 Page)
 
 #### Stretch Goal Deliverables:
 - Create a prototype for desktop and mobile  
@@ -90,7 +90,7 @@ You won't have access to all the brand materials of visual materials that you mi
 | Blood Drive | TBD | 
 | EIFF Festival | TBD | 
 
-Client briefs and project descriptions can be found here: 
+Client briefs and project descriptions can be found here: TBD
 
 ## Resources
 
