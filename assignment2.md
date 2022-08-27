@@ -1,33 +1,19 @@
-# Assignment 1 - Website Audit
-For the website assigned below, perform a short assessment on the interface of the website. Pay attention to the following:
+# Assignment 2 - Website Audit
+For the website assigned below, perform a short audit on the interface of the website. 
 
-- Content (what it actually says, how it is divided into sections)
-- General design
-- Photography/Illustration
-- Hero
-- Navigation
-- Footer
-- Interactivity (animations, transitions, etc)
+**Audit Categories:**
+- Design, Branding and Consistency
+- Navigation and User Flow
+- Content and Content Heirarchy
+- Accessibility 
 
-## Tasks
-1. Draft a simple user persona for the audience you believe the website is primarily be targeting (a photo, a name, a paragraph that describes that user). 
-2. Discuss a few of the elements above that you feel are well done, and how they've considered the audience. If applicable, what elements could have been done better.
-3. Finally, answer the question: *Is this a well-designed website?* and discuss why or why not.
+## Overview
+1. Draft a simple user persona for the audience you believe the website is primarily be targeting (photo, name, description). 
+2. Find 2 items from each category (8 total) that are done well. Include an explanation of why they are well done.
+3. Find 2 items from each category (8 total) that need improvement. Include an explanation of why and a **recommendation for improvement**. 
+7. Upload a PDF of your document to the your folder in the [Class Google Drive](https://drive.google.com/drive/folders/1SjKroRLr_VBNwlM3DVFWo1PLAg9FTAtL).
 
-## Timeframe
-Spend no more than two hours, to be emailed to Bryan by end of Friday
+**Assignment Due:** Thursday, October 6
 
 ## Websites
-Monika - https://usehyphen.com/   
-Jerad - https://kieranparker.co.uk/   
-Avery - https://humbleteam.com/   
-Leslie - https://sendbird.com/   
-Gina - https://ops.futurelondonacademy.co.uk/   
-Jorden - https://www.brewbike.com/   
-Abigail - https://www.weareunder.design/   
-Chane - https://www.figma.academy/   
-Christina - https://wealthfront.com/   
-Jesse - https://joinpave.com/   
-Lara - https://www.alike.health/   
-Alysha - https://glossarie.xyz/   
-Eva - https://louderthanten.com/   
+TBD
