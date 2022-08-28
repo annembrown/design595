@@ -16,7 +16,15 @@ For the website assigned below, perform a short audit on the interface of the we
 **Assignment Due:** Thursday, October 6
 
 ## Websites
-TBD
+| Wesbite | Designer | 
+|  -----  | ----- | 
+| Ladies Learning Code | TBD | 
+| Bloom Cookie Co. | TBD | 
+| The Grizzlar | TBD | 
+| Illustration Conference | TBD | 
+| SNAP Gallery | TBD |  
+| Blood Drive | TBD | 
+| EIFF Festival | TBD | 
 
 ## Resources
 [Wave Assessibility Checker](https://wave.webaim.org/) 
