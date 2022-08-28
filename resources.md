@@ -53,4 +53,4 @@
 - [Sample Interview Questions](https://github.com/annembrown/design595/blob/main/interview-questions.md) 
 - [Types of User Testing](https://github.com/annembrown/design595/blob/main/user-testing.md)
 - [How to Run a Usability Testing Session](https://github.com/annembrown/design595/blob/main/usability-test-facilitation.md)
-- [User Testing Script](https://github.com/annembrown/design595/blob/main/user-testing-script.md)
+- [Sample User Testing Script](https://github.com/annembrown/design595/blob/main/user-testing-script.md)
