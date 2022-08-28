@@ -80,7 +80,7 @@ You won't have access to all the brand materials of visual materials that you mi
 **Project Due:** Thursday, November 17 
 
 ## Clients & Teams
-| Client | Designers | 
+| Client | Teams | 
 |  -----  | ----- | 
 | Ladies Learning Code | TBD | 
 | Bloom Cookie Co. | TBD | 
