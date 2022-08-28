@@ -98,7 +98,7 @@ Get photography from places like Unsplash or other free stock sources. For produ
 | Food Surprise | TBD | TBD |
 | Food Surprise | TBD | TBD |
 
-Client briefs and project descriptions can be found here:
+Client briefs and project descriptions can be found here: https://github.com/annembrown/design595/blob/main/project3-clients.md
 
 #### Planning Document Presentations:
 
