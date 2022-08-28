@@ -1,4 +1,4 @@
-# Project 3 - Client Briefs
+# Project 3: Client Briefs
 
 ### Donation Guide
 With the holidays coming up, people are starting to think about how they can help people who are less fortunate than themselves, whether it's local, national or global. Design an experience that will help users select a non-profit that will fit the user's beliefs, attitudes and world view.
