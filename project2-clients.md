@@ -1,4 +1,4 @@
-# Project 2 - Client Briefs
+# Project 2: Client Briefs
 
 ### Conference Speakers
 Client: Code Canada (Ladies Learning Code)  
