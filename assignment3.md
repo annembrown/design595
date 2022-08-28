@@ -9,4 +9,4 @@ Introduction
 
 ## Resources
 - [How to Run a Usability Testing Session](https://github.com/annembrown/design595/blob/main/usability-test-facilitation.md)
-- [User Testing Script](https://github.com/annembrown/design595/blob/main/user-testing-script.md)
+- [Sample User Testing Script](https://github.com/annembrown/design595/blob/main/user-testing-script.md)
