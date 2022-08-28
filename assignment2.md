@@ -18,10 +18,10 @@ For the website assigned below, perform a short audit on the interface of the we
 ## Websites
 | Wesbite | Designer | 
 |  -----  | ----- | 
-| Ladies Learning Code | TBD | 
-| Bloom Cookie Co. | TBD | 
-| The Grizzlar | TBD | 
-| Illustration Conference | TBD | 
+| [Carved](https://www.carved.com/) | TBD | 
+| [Flatline Van Co.](https://flatlinevanco.com/) | TBD | 
+| [Neurogan](https://neurogan.com/) | TBD | 
+| [Vego Garden](https://vegogarden.com/) | TBD | 
 | SNAP Gallery | TBD |  
 | Blood Drive | TBD | 
 | EIFF Festival | TBD | 
