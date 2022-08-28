@@ -1,37 +1,29 @@
-# Website design and development process
+# Website Design & Development Agency Process 
 
-## Kickoff
+## Phase 1: Sales
+- Create and submit a proposal to the company who posted the Request for Proposal (RFP)
+- Win the RFP! 
+- Create an Statement of Work (SOW)
+- Hand off the project to the discovery team
+- Schedule and prep for the client kickoff meeting
 
-### Preparation
-
-- Finalize Contract
-- Review existing website
-- Generate questions for kickoff meeting
-- Identify existing functionality
-- Draft timeline
+## Phase 2: Discovery
 
 ### Kickoff Meeting
 
 - Introduction of team
-- Identify point of contact
-- Review timeline
-- Discuss interviews/questionnaires
-- Current site discussion
-- Functionality discussion
-- Establish do's/don't's/can's/can't's
-- Get server/login information
-- Ask for branding guide
+- Project introduction (What is the goal of the project?)
+- Current site discussion (What do they like? What problems do they have?)
+- Functionality discussion (What features are most important?)
+- User discussion (Who are your users groups? What are their needs?)
+- Review scope and timeline (What is the budget? When is launch?)
+- Determine next steps for each team (What do we need from the client?)
 
-### Follow up
-- Confirm interview/questionnaire list
-- Ask for specific server/login info
-- Ask again for branding guide
-
-### Links
+Resources:
 - [Kickoff Meetings](https://www.kobot.ca/blog/kickoff-meetings-what-are-they-and-why-should-you-do-them/)  
 - [Protect Ya Neck: The Importance of Client Questionnaires](https://forefathersgroup.com/client-questionnaires/)
 
-## Research
+### Research
 - Organization and audience research
 - Website inventory and audit (if there is an existing website)
 - Interviews/questionnaires with Client and stakeholders
