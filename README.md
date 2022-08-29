@@ -1,6 +1,6 @@
 # Design 595 - Fall 2022 Course Files
 **University of Alberta** <br>
-**Location, Days & Time:** FAB Room 2-38A, Tues & Thurs 2:00–4:50PM <br> 
+**Location, Days & Time:** FAB Room 2-38B, Tues & Thurs 2:00–4:50PM <br> 
 **Instructor:** Anne Brown - annebrowndesign@gmail.com <br>
 **Technician:** Cindy Couldwell - clc13@ualberta.ca <br>
 **Course website:** [github.com/annembrown/design595](https://github.com/annembrown/design595)
