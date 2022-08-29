@@ -35,7 +35,7 @@ For your first project, you will create a simple landing page that includes a we
 - Avoid using a selfie for a photograph.
 ## Deliverables
 - Process Materials (Wireframe & Moodboard)  
-- Zipped Website File (HTML, CAA, Images, etc.)  
+- Zipped Website File (HTML, CSS, Images, etc.)  
 - Learning Reflection (1 Page)  
 ## Dates
 **Project Assigned:** Thursday, September 1 <br>
