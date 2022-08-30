@@ -6,7 +6,7 @@ Think you know what makes a good button or footer? Prove it by finding what you 
 3. In the #assignments channel on Slack, share 3 of the items you found with why you shared it with the class.
 4. In the #assignments channel on Slack, share a link to what you thought was the best site that you discovered and why you liked it.  
 5. Comment on 3 things that other students have shared, as to why you liked it or didn't.
-6. Upload a PDF of your document to the your folder in the [Class Google Drive](https://drive.google.com/drive/folders/1SjKroRLr_VBNwlM3DVFWo1PLAg9FTAtL?usp=sharing).
+6. Upload a PDF of your document to the your folder in the [Class Google Drive](https://drive.google.com/drive/folders/1KhhVdiu4iG2xxqt5WT-Pd89hMuWB6TOt?usp=sharing).
 
 **Assignment Due:** Thursday, September 15
 
