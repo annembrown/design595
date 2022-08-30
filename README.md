@@ -8,7 +8,7 @@
 ## Class Documents 
 [Course Outline](https://github.com/annembrown/design595/blob/main/coure_outline.md) <br>
 [VCD Student Information Handbook](https://github.com/annembrown/design595/blob/main/vcd-handbook.md)<br>
-[Class Google Drive](https://drive.google.com/drive/folders/1SjKroRLr_VBNwlM3DVFWo1PLAg9FTAtL?usp=sharing) (Lecture Presentations & Project Hand-ins)
+[Class Google Drive](https://drive.google.com/drive/folders/1KhhVdiu4iG2xxqt5WT-Pd89hMuWB6TOt?usp=sharing) (Lecture Presentations & Project Hand-ins)
 
 ## Project Documents 
 [**Project 1** - Pleased to Meet Me](https://github.com/annembrown/design595/blob/main/project1.md) <br>
