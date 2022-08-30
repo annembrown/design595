@@ -52,7 +52,7 @@ F = Fail. Required to withdraw
 or F(R) = Failure with Re-examination privilege 
 
 ## Project Delivery
-You will need to save all projects and assignments to your folder in the [Class Google Drive](https://drive.google.com/drive/folders/1KhhVdiu4iG2xxqt5WT-Pd89hMuWB6TOt?usp=sharing) on the assigned project completion date.
+You will need to save all projects and assignments to your folder in the [Class Google Drive](https://drive.google.com/drive/folders/1KhhVdiu4iG2xxqt5WT-Pd89hMuWB6TOt?usp=sharing) on the assigned project completion date. Projects are always due at the beginning of class on the assigned due date.
 
 ## Departmental Guidelines
 #### Academic Integrity & Honesty
