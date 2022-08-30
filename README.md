@@ -3,7 +3,8 @@
 **Location, Days & Time:** FAB Room 2-38B, Tues & Thurs 2:00–4:50PM <br> 
 **Instructor:** Anne Brown - annebrowndesign@gmail.com <br>
 **Technician:** Cindy Couldwell - clc13@ualberta.ca <br>
-**Course website:** [github.com/annembrown/design595](https://github.com/annembrown/design595)
+**Course website:** [github.com/annembrown/design595](https://github.com/annembrown/design595) <br>
+**Course Slack:** https://join.slack.com/t/slack-vdx6716/shared_invite/zt-1etdaelxh-8N6HUqvFYugOQUV3tsPHFQ  
 
 ## Class Documents 
 [Course Outline](https://github.com/annembrown/design595/blob/main/coure_outline.md) <br>
