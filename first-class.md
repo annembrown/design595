@@ -7,6 +7,7 @@ The first class isn't done until you have done the following:
 3. Signup for Codepen: https://codepen.io/
 4. Download Adobe XD (or Sketch/Figma)
 5. Read the Project 1 Brief: https://github.com/annembrown/design595/blob/main/project1.md
+6. Read "All Design Projects Should Start in a Google Doc": https://www.tedgoas.com/blog/design-in-google-docs/
 
 
 
