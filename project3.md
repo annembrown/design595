@@ -9,10 +9,9 @@ For your final 595 project, you will be given a simple, open-ended brief to desi
 The minimum expectation is that you will go from research, to sitemap/wireframes/moodboards, all the way to developing a clickable prototype of a single **but complete** user flow through the digital experience. You will not be expected to code it. 
 
 ## Process 
-- Develop a research plan
-- Determine website goals and users personas
+- Develop a research plan and complete a research report
 - Plan the digital experience through the development of a sitemap and wireframes
-- Develop a brand and design language
+- Develop a brand and design language through moodboards and a product stylesheet 
 - Design the experience 
 - Create a clickable prototype out of your design
 - Create a case study that presents the final outcome
@@ -61,8 +60,8 @@ Get photography from places like Unsplash or other free stock sources. For produ
 - Don't design every page necessary for the website/app/kiosk/whatever; only the ones necessary to express a single, linear user flow through the experience. That said, the site map should inventory all the necessary pages for the organization to function.
 
 ## Deliverables
-- Research Report (definition of audience, goals, strategies, user personas) 
-- Planning Documentation and Presentation (site map, wireframes, brand and moodboard)
+- Research Report (Project goals, success metrics, competitors, and user personas)
+- Planning Documentation and Presentation (sitemap, wireframes, brand, moodboard and stylesheet)
 - Clickable Prototype
 - Case Study
 
