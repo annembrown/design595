@@ -9,9 +9,9 @@ You have been approached by an established organization looking to create a micr
 **The first part of the project will be done in groups.** All work for the projects will be done and delivered as a group up to, and including, the wireframes. Each student, however, will develop their own moodboards and clickable prototypes.
 
 ## Process
-- Develop a research plan 
-- Determine website goals and users personas
-- Plan out your landing page by developing user flows and wireframes 
+- Develop a research plan and write stakeholder (client) interview questions
+- Conduct project research and complete a research report (project goals, success metrics, competitors, and user personas)
+- Plan out your landing page by developing both user flows and wireframes 
 - Develop a design language that you'll use for your website 
 - Design the landing page
 - Create a clickable prototype out of your design
@@ -59,10 +59,10 @@ You won't have access to all the brand materials of visual materials that you mi
 
 ## Deliverables
 #### Per Team:
-- Research Process Outline (Describe what things you do as part of your research and a script of interview questions)
-- Research Report Brief (Definition of audience, user personas, website goals, strategies) 
+- Research Process Outline (Describe what things you will do as part of your research and develop a script of stakeholder interview questions)
+- Research Report (Project goals, success metrics, competitors, and user personas)
 #### Per Individuals:
-- Planning Documentation (User flow diagrams, wireframes, moodboards) 
+- Planning Documentation (User flows, wireframes, moodboards) 
 - Design as a Clickable Prototype 
 - Learning Reflection (1 Page)
 
