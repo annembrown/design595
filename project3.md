@@ -20,11 +20,11 @@ The minimum expectation is that you will go from research, to sitemap/wireframes
 - Planning and designing a digital experience which answers a brief  
 - Basic research for web design project   
 - Audience identification and personas   
-- User experience flow development 
 - Wireframing     
 - Sitemap development   
-- Visual direction development (Moodboard/style-tile/stylescape)   
-- Clickable Prototype development   
+- Visual direction development (Moodboard/style-tile/stylescape)  
+- Product stylesheet development  
+- Clickable prototype development   
 
 ## Project Details
 
