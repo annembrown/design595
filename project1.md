@@ -34,7 +34,7 @@ For your first project, you will create a simple landing page that includes a we
 - Make sure that you use a tone and approach in your writing that will resonate with your audience.
 - Avoid using a selfie for a photograph.
 ## Deliverables
-- Process Materials (Wireframe & Moodboard)  
+- Process Materials (Wireframe & Style Tile)  
 - Zipped Website File (HTML, CSS, Images, etc.)  
 - Learning Reflection (1 Page)  
 ## Dates
