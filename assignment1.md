@@ -2,11 +2,11 @@
 Think you know what makes a good button or footer? Prove it by finding what you consider a really good example of each element listed below. Not sure what all the items below are? Google them and learn a bit more about UI!
 ## Overview
 1. Go through the list below and find what you consider good examples for *10* of the items
-2. Create a document where you a) paste a screenshot of the element b) include the url of the page you found it c) and in 1 or 2 sentences, explain why you think it's good. Consider it's design, use of brand, usability, accessibility, etc. 
+2. Create a document where you a) paste a screenshot of the element b) include the url of the page you found it c) and in 1 or 2 sentences, explain why you think it's good. Consider its design, use of brand, usability, accessibility, etc. 
 3. In the #assignments channel on Slack, share 3 of the items you found with why you shared it with the class.
 4. In the #assignments channel on Slack, share a link to what you thought was the best site that you discovered and why you liked it.  
 5. Comment on 3 things that other students have shared, as to why you liked it or didn't.
-6. Upload a PDF of your document to the your folder in the [Class Google Drive](https://drive.google.com/drive/folders/1KhhVdiu4iG2xxqt5WT-Pd89hMuWB6TOt?usp=sharing).
+6. Upload a PDF of your document to your folder in the [Class Google Drive](https://drive.google.com/drive/folders/1KhhVdiu4iG2xxqt5WT-Pd89hMuWB6TOt?usp=sharing).
 
 **Assignment Due:** Thursday, September 15
 
