@@ -30,12 +30,15 @@
 - [Styletile Examples](https://dribbble.com/tags/style_tile)  
 - [How to Enhance UX Design with Moodboards](https://xd.adobe.com/ideas/process/ui-design/how-to-enhance-ux-design-with-mood-boards/)
 
-### Prototypes
+### Figma, XD & Prototypes
 - [Design a Prototype in XD](https://www.youtube.com/watch?v=EJE-H69RZ2A)
 - [Mastering Adobe XD](https://www.youtube.com/watch?v=wCxQ-hHnmGc)
 - [Creating a Website Prototype in XD](https://www.youtube.com/watch?v=gjNUwegxn1w)
 - [Learning Figma](https://help.figma.com/hc/en-us/categories/360002042553-Figma-design)
 - [Prototyping with Figma](https://www.figma.com/prototyping/)
+- [Figma Auto Layout ](https://www.youtube.com/watch?v=Do6HJBj984I)
+- [Figma Variants](https://www.youtube.com/watch?v=6XcDHOlBARc) 
+- [Figma Wireframe Template](https://www.figma.com/templates/wireframe-kits/ )
 
 ### HTML & CSS
 - [Codepen](https://codepen.io/) (Sign up for your own account)
