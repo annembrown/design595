@@ -1,4 +1,4 @@
-# Client Interview Questions
+# Client/Stakeholder Interview Questions
 ### Organizational Questions
 1. Tell me about yourself and your role at [organization].
 2. Tell me about [organization] and it's objectives.
