@@ -33,7 +33,6 @@ For the website assigned below, perform a short audit on the interface of the we
 | [Opus Bike](https://www.opusbike.com/) | TBD | 
 | [IKONICK](https://ikonick.com/) | TBD | 
 | [Le Creuset](https://www.lecreuset.ca/) | TBD | 
-| [Kernels](https://www.kernelspopcorn.com/) | TBD | 
 
 ## Resources
 [Wave Assessibility Checker](https://wave.webaim.org/) 
