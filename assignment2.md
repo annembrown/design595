@@ -8,7 +8,7 @@ For the website assigned below, perform a short audit on the interface of the we
 - Accessibility 
 
 ## Overview
-1. Draft a simple user persona for the audience you believe the website is primarily targeting (photo, name, demographics). 
+1. Draft a simple user proto-persona for the audience you believe the website is primarily targeting (photo, name, demographics). 
 2. Find 1 item from each category (4 total) that are done well. Include an explanation of why they are well done.
 3. Find 2 items from each category (8 total) that need improvement. Include an explanation of why and a **recommendation for improvement**. 
 7. Upload a PDF of your document to the your folder in the [Class Google Drive](https://drive.google.com/drive/folders/1KhhVdiu4iG2xxqt5WT-Pd89hMuWB6TOt?usp=sharing).
