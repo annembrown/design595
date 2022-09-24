@@ -4,7 +4,7 @@ Design a simple landing page for a client. <br>
 **This project is worth 30% of your final mark.**
 
 ## Overview
-You have been approached by an established organization looking to create a microsite/landing page for a small project they have. The goal of the project is to inform specific users about a service or opportunity they are offering, provide a compelling case for the user to participate and finally have to signup or purchase functionality. In this project, you will go from research all the way to developing a clickable prototype of the website. You will not be expected to code it. 
+You have been approached by an established organization looking to create a microsite/landing page for a small project they have. The goal of the project is to inform specific users about a service or opportunity they are offering, provide a compelling case for the user to participate and finally have them go through a signup or purchase flow. In this project, you will go from research all the way to developing a clickable prototype of the website. You will not be expected to code it. 
 
 **The first part of the project will be done in groups.** All work for the projects will be done and delivered as a group up to, and including, the wireframes. Each student, however, will develop their own moodboards and clickable prototypes.
 
