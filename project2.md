@@ -18,8 +18,8 @@ You have been approached by an established organization looking to create a micr
 
 ## Learning Concepts
 - Planning and designing a simple landing page with a signup form
-- Basic research for web design project
 - Audience identification and personas
+- Basic research for a web design project
 - User experience flow development
 - Wireframing
 - Visual direction development (Moodboard/style-tile/stylescape)
