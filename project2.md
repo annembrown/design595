@@ -75,7 +75,7 @@ You won't have access to all the brand materials of visual materials that you mi
 **Project Assigned:** Tuesday, October 4 <br>
 **Research Process Due:** Thursday, October 13 <br>
 **Present Research Brief:** Thursday, October 20 <br>
-**Present Planning Deliverables:** Thursday, November 3 <br>
+**Present Planning Deliverables:** Tuesday, November 1 <br>
 *(Reading Week November 7 – 11)*  
 **Project Due:** Thursday, November 17 
 
