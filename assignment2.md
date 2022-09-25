@@ -3,7 +3,7 @@ For the website assigned below, perform a short audit on the interface of the we
 
 **Audit Categories:**
 - Branding and Consistency
-- Content & Heirarchy 
+- Content & Hierarchy
 - Usability
 - Accessibility 
 
