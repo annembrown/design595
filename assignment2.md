@@ -2,9 +2,9 @@
 For the website assigned below, perform a short audit on the interface of the website. 
 
 **Audit Categories:**
-- Design, Branding and Consistency
-- Navigation and User Flow
-- Content and Content Heirarchy
+- Branding and Consistency
+- Content & Heirarchy 
+- Usability
 - Accessibility 
 
 ## Overview
