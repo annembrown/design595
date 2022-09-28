@@ -72,8 +72,8 @@ You won't have access to all the brand materials of visual materials that you mi
 - Take your own photography  
 
 ## Dates
-**Project Assigned:** Tuesday, October 4 <br>
-**Research Process Due:** Thursday, October 13 <br>
+**Project Assigned:** Thursday, September 29 <br>
+**Research Process Due:** Tuesday, October 18 <br>
 **Present Research Brief:** Thursday, October 20 <br>
 **Present Planning Deliverables:** Tuesday, November 1 <br>
 *(Reading Week November 7 – 11)*  
