@@ -40,7 +40,7 @@ For your first project, you will create a simple landing page that includes a we
 ## Dates
 **Project Assigned:** Thursday, September 1 <br>
 **Bio Due:** Thursday, September 8 <br>
-**Project Due:** Thursday, September 29 **(Deadline extended to Tueaday, Oct. 4)**
+**Project Due:** Thursday, September 29 **(Deadline extended to Tuesday, Oct. 4)**
 
 ## Resources
 #### Content
