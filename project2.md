@@ -80,16 +80,15 @@ You won't have access to all the brand materials of visual materials that you mi
 **Project Due:** Thursday, November 17 
 
 ## Clients & Teams
-| Client | Designers | 
-|  -----  | ----- | 
-| Ladies Learning Code | TBD | 
-| Bloom Cookie Co. | TBD | 
-| The Grizzlar | TBD | 
-| Adobe | TBD | 
-| SNAP Gallery | TBD |  
-| Canadian Blood Services | TBD | 
-| EIFF Festival | TBD | 
-| Glass Bookshop | TBD | 
+| Client | Designer | Designer |
+|  -----  | ----- | ----- | 
+| Ladies Learning Code | Sofia | Hilary | 
+| Bloom Cookie Co. | Katie | Tracy | 
+| The Grizzlar | Sahar | Keltyn | 
+| Adobe | Sohee | Lindsay | 
+| Canadian Blood Services | Michelle | Hanna |  
+| EIFF Festival | Rachel | Laura | 
+| Glass Bookshop | Winnie | Ambreyl | 
 
 Client briefs and project descriptions can be found here: https://github.com/annembrown/design595/blob/main/project2-clients.md
 
