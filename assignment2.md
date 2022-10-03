@@ -18,21 +18,20 @@ For the website assigned below, perform a short audit on the interface of the we
 ## Websites
 | Wesbite | Designer | 
 |  -----  | ----- | 
-| [Carved](https://www.carved.com/) | TBD | 
-| [Pela](https://pelacase.ca/) | TBD |  
-| [Flatline Van Co.](https://flatlinevanco.com/) | TBD | 
-| [Neurogan](https://neurogan.com/) | TBD | 
-| [Vego Garden](https://vegogarden.com/) | TBD | 
-| [The Perfect Jean](https://theperfectjean.nyc/) | TBD | 
-| [Pave](https://joinpave.com/home) | TBD | 
-| [Marriott Hotel](https://www.marriott.com/default.mi) | TBD | 
-| [Fantasy Land Hotel](https://flh.ca/) | TBD | 
-| [TD Canada](https://www.td.com/ca/en/personal-banking/) | TBD | 
-| [KOHO](https://www.koho.ca/) | TBD | 
-| [ATCO](https://www.atco.com/en-ca.html) | TBD | 
-| [Opus Bike](https://www.opusbike.com/) | TBD | 
-| [IKONICK](https://ikonick.com/) | TBD | 
-| [Le Creuset](https://www.lecreuset.ca/) | TBD | 
+| [Carved](https://www.carved.com/) | Katie | 
+| [Pela](https://pelacase.ca/) | Laura |  
+| [Flatline Van Co.](https://flatlinevanco.com/) | Sahar | 
+| [Neurogan](https://neurogan.com/) | Sohee | 
+| [Vego Garden](https://vegogarden.com/) | Keltyn | 
+| [The Perfect Jean](https://theperfectjean.nyc/) | Tracy | 
+| [Pave](https://joinpave.com/home) | Hilary | 
+| [Marriott Hotel](https://www.marriott.com/default.mi) | Hanna | 
+| [Fantasy Land Hotel](https://flh.ca/) | Winnie | 
+| [TD Canada](https://www.td.com/ca/en/personal-banking/) | Michelle | 
+| [KOHO](https://www.koho.ca/) | Sofia | 
+| [ATCO](https://www.atco.com/en-ca.html) | Rachel | 
+| [Opus Bike](https://www.opusbike.com/) | Ambreyl | 
+| [IKONICK](https://ikonick.com/) | Lindsay | 
 
 ## Resources
 [Wave Assessibility Checker](https://wave.webaim.org/) 
