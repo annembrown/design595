@@ -34,4 +34,8 @@ For the website assigned below, perform a short audit on the interface of the we
 | [IKONICK](https://ikonick.com/) | Lindsay | 
 
 ## Resources
-[Wave Assessibility Checker](https://wave.webaim.org/) 
+- [WCAG Quick Reference Guidelines](https://www.w3.org/WAI/WCAG21/quickref/?showtechniques=122)
+- [Material Accessibility Guidelines](https://material.io/design/usability/accessibility.html#hierarchy) 
+- [Wave Accessibility Checker](https://wave.webaim.org/)
+- [Colour Contrast Checker](https://color.review/)
+- [Disability Simulator](https://chrome.google.com/webstore/detail/web-disability-simulator/olioanlbgbpmdlgjnnampnnlohigkjla?hl=en)
