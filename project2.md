@@ -73,7 +73,7 @@ You won't have access to all the brand materials of visual materials that you mi
 
 ## Dates
 **Project Assigned:** Thursday, September 29 <br>
-**Research Process Due:** Tuesday, October 18 <br>
+**Research Plan Due:** Thursday, October 13 <br>
 **Present Research Report (As Groups):** Thursday, October 20 <br>
 **Present Planning Deliverables & Crit (As Individuals):** Tuesday, November 1 <br>
 *(Reading Week November 7 – 11)*  
