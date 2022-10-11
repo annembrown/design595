@@ -2,7 +2,7 @@
 Facilitate a usability test for your Project 2 landing page design.
 
 ## Overview
-1. Find someone that meets the targeted user persona for your project and book a virtual tessting session with them. They can be a family member or friend as long as they meet the criteria.
+1. Find someone that meets the targeted user persona for your Project 2 and book a virtual tessting session with them. They can be a family member or friend as long as they meet the criteria.
 2. Prep for the testing session by screating a script. 
 3. Determine 3 tasks to test and write scenarios for each.  
 4. Faciliate and record a virtual session with the chosen user.
