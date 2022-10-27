@@ -72,7 +72,7 @@ Get photography from places like Unsplash or other free stock sources. For produ
 - Take your own photography
 
 ## Dates
-**Project Assigned:** Thursday, October 27 <br>
+**Project Assigned:** Thursday, November 1 <br>
 **Strategy Brief Due:** Thursday, November 24 <br>
 **Present Planning Documents:** Tuesday, November 29 / Thursday, December 1 <br>
 **Present Prototype:** Thursday, December 8 <br>
