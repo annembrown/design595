@@ -62,7 +62,7 @@ You won't have access to all the brand materials of visual materials that you mi
 - Research Process Outline (Describe what things you will do as part of your research and develop a script of stakeholder interview questions)
 - Research Report (Project goals, success metrics, competitors, and user personas)
 #### Per Individuals:
-- Planning Documentation (User flows, wireframes, moodboards) 
+- Planning Documentation (User flows, wireframes, style title) 
 - Design as a Clickable Prototype 
 - Learning Reflection (1 Page)
 
