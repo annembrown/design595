@@ -11,7 +11,7 @@ The minimum expectation is that you will go from research, to sitemap/wireframes
 ## Process 
 - Develop a research plan and complete a research report
 - Plan the digital experience through the development of a sitemap and wireframes
-- Develop a brand and design language through moodboards and a product stylesheet 
+- Develop a brand and design language through a styletile and a product stylesheet 
 - Design the experience 
 - Create a clickable prototype out of your design
 - Create a case study that presents the final outcome
