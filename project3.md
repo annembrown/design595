@@ -6,7 +6,7 @@ Design and create an entire digital user experience.
 ## Overview
 For your final 595 project, you will be given a simple, open-ended brief to design a digital experience around a certain subject. What you choose to do or how far you choose to push it is up to you. Decisions such as branding, choice of audience/demographic, writing content and the details of the interaction will be yours.
 
-The minimum expectation is that you will go from research, to sitemap/wireframes/moodboards, all the way to developing a clickable prototype of a single **but complete** user flow through the digital experience. You will not be expected to code it. 
+The minimum expectation is that you will go from research, to sitemap/wireframes/styletile, all the way to developing a clickable prototype of a single **but complete** user flow through the digital experience. You will not be expected to code it. 
 
 ## Process 
 - Develop a research plan and complete a research report
