@@ -55,7 +55,7 @@ Get photography from places like Unsplash or other free stock sources. For produ
 - The branding/visual approach for this project is wide open! Choose an audience and make the brand work for them!
 
 #### Don't’s:
-- Don't pick yourself or someone like you as the audience. That's lame.
+- Don't pick yourself or someone like you as the audience. 
 - Don't feel tied to the idea this has to be a website... maybe it's a phone app or an in-store kiosk. 
 - Don't design every page necessary for the website/app/kiosk/whatever; only the ones necessary to express a single, linear user flow through the experience. That said, the site map should inventory all the necessary pages for the organization to function.
 
