@@ -4,7 +4,7 @@
 With the holidays coming up, people are starting to think about how they can help people who are less fortunate than themselves, whether it's local, national or global. Design an experience that will help users select a non-profit that will fit the user's beliefs, attitudes and world view.
 
 ### Watch startup
-You have been asked to design a digital experience for a new wristwatch company which allows users to custom build a watch for from a selection of different case, dial and hand styles as well as different bracelets and straps.
+You have been asked to design a digital experience for a new wristwatch company which allows users to custom build a watch for themselves from a selection of different case, dial and hand styles as well as different bracelets and straps.
 
 ### Physical Training Service
 An online physical trainer is creating an online service to allow users to work with an AI trainer. Design the signup experience where the is able to express their goals, current level of fitness, and identify exercises to develop a personal training plan.
