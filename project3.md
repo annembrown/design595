@@ -61,7 +61,7 @@ Get photography from places like Unsplash or other free stock sources. For produ
 
 ## Deliverables
 - Research Report (Project goals, success metrics, competitors, and user personas)
-- Planning Documentation and Presentation (sitemap, wireframes, brand, moodboard and stylesheet)
+- Planning Documentation and Presentation (Sitemap, wireframes, brand, moodboard and stylesheet)
 - Clickable Prototype
 - Case Study
 
