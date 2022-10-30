@@ -99,18 +99,6 @@ Get photography from places like Unsplash or other free stock sources. For produ
 
 Client briefs and project descriptions can be found here: https://github.com/annembrown/design595/blob/main/project3-clients.md
 
-#### Planning Document Presentations:
-
-| November 29 | December 1 | Presentation time |
-| ----- | ------ | ----- |
-| TBD | TBD | 2:10 PM |
-| TBD | TBD | 2:30 PM |
-| TBD | TBD | 2:50 PM |
-| TBD | TBD | 3:10 PM |
-| TBD | TBD | 3:30 PM |
-| TBD | TBD | 3:50 PM |
-| TBD | TBD | 4:10 PM |
-
 ## Resources
 #### UX Design
 - [Creating Successful Product Flows](https://medium.com/@ryanglasgow/creating-successful-product-flows-c41ffbce49a1#.gwnuwmgkz)
