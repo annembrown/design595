@@ -7,6 +7,12 @@
 - [Designing Case Studies](https://www.smashingmagazine.com/2015/02/designing-case-studies-human-centered-design-process/)
 - [10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/)
 - [Top 10 Web Design Mistakes](https://www.nngroup.com/videos/top-10-web-design-mistakes/)
+- [113 Design Guidelines Homepage Usability](https://www.nngroup.com/articles/113-design-guidelines-homepage-usability/)
+- [Zigzag Layout Issues](https://www.nngroup.com/articles/zigzag-page-layout/)
+- [Visual Design Principals](https://www.nngroup.com/articles/principles-visual-design/)
+- [Flat Design](https://www.nngroup.com/articles/flat-design/)
+- [Chunking Content](https://www.nngroup.com/videos/chunking/)
+- [Form Design](https://www.nngroup.com/articles/web-form-design/)
 - [NNGroup](nngroup.com) *(Awesome research based UX articles)* 
 - [Design Better](https://www.designbetter.co/) *(Great resource for app and product design)* 
 
@@ -54,6 +60,8 @@
 ### Content
 - [All Design Projects Should Start in a Google Doc](https://www.tedgoas.com/blog/design-in-google-docs/)   
 - [How to Write a Bio](https://creativecloud.adobe.com/discover/article/how-to-write-a-professional-bio)
+- [UX Writing Study Guide](https://www.nngroup.com/articles/ux-writing-study-guide/#share)
+
 
 ### Interviews & User Testing
 - [Sample Interview Questions](https://github.com/annembrown/design595/blob/main/interview-questions.md) 
