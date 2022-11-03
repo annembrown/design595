@@ -6,7 +6,7 @@
 - [Adobe XD Landing Page Design Tutorial](https://www.youtube.com/watch?v=KLCmXOdPw5o&feature=share)
 - [Designing Case Studies](https://www.smashingmagazine.com/2015/02/designing-case-studies-human-centered-design-process/)
 - [10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/)
-- [Top 10 Web Design Mistakes] (https://www.nngroup.com/videos/top-10-web-design-mistakes/)
+- [Top 10 Web Design Mistakes](https://www.nngroup.com/videos/top-10-web-design-mistakes/))
 - [NNGroup](nngroup.com) *(Awesome research based UX articles)* 
 - [Design Better](https://www.designbetter.co/) *(Great resource for app and product design)* 
 
