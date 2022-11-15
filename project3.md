@@ -82,19 +82,20 @@ Get photography from places like Unsplash or other free stock sources. For produ
 
 | Project | Designer | Client |
 |  -----  | ----- | ------ |
-| Watch Startup | Sohee | TBD |
-| Watch Startup | Tracy | TBD |
-| Physical Training Service | Sahar | TBD |
-| Custom Runners | Winnie  | TBD |
-| Custom Runners | Rachel | TBD |
-| Coffee Subscription | Laura | TBD |
-| Coffee Subscription | Lindsay | TBD |
-| Clothing Box | Hanna | TBD |
-| Food Surprise | Keltyn | TBD |
-| Food Surprise | Sofia | TBD |
-| Pet Adoption | Michelle | TBD |
-| Plant Lovers | Ambreyl | TBD |
-| Plant Lovers | Hilary | TBD |
+| Watch Startup | Sohee | Sahar |
+| Watch Startup | Tracy | Lindsay |
+| Physical Training Service | Sahar | Michelle |
+| Custom Runners | Winnie  | Hanna |
+| Custom Runners | Rachel | Sofia |
+| Coffee Subscription | Laura | Sohee |
+| Coffee Subscription | Lindsay | Katie |
+| Clothing Box | Hanna | Tracy |
+| Food Surprise | Keltyn | Hilary |
+| Food Surprise | Sofia | Keltyn |
+| Pet Adoption | Michelle | Ambreyl |
+| Plant Lovers | Ambreyl | Rachel |
+| Plant Lovers | Hilary | Winnie |
+| TBD | Katie | Laura |
 
 Client briefs and project descriptions can be found here: https://github.com/annembrown/design595/blob/main/project3-clients.md
 
