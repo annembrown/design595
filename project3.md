@@ -82,20 +82,19 @@ Get photography from places like Unsplash or other free stock sources. For produ
 
 | Project | Designer | Client |
 |  -----  | ----- | ------ |
-| Clothing Box | TBD | TBD |
-| Clothing Box | TBD | TBD |
-| Coffee Subscription | TBD | TBD |
-| Coffee Subscription | TBD | TBD |
-| Pet Adoption | TBD | TBD |
-| Pet Adoption | TBD | TBD |
-| Custom Runners | TBD | TBD |
-| Custom Runners | TBD | TBD |
-| Plant Lovers | TBD | TBD |
-| Plant Lovers | TBD | TBD |
-| Watch Startup | TBD | TBD |
-| Watch Startup | TBD | TBD |
-| Food Surprise | TBD | TBD |
-| Food Surprise | TBD | TBD |
+| Watch Startup | Sohee | TBD |
+| Watch Startup | Tracy | TBD |
+| Physical Training Service | Sahar | TBD |
+| Custom Runners | Winnie  | TBD |
+| Custom Runners | Rachel | TBD |
+| Coffee Subscription | Laura | TBD |
+| Coffee Subscription | Lindsay | TBD |
+| Clothing Box | Hanna | TBD |
+| Food Surprise | Keltyn | TBD |
+| Food Surprise | Sofia | TBD |
+| Pet Adoption | Michelle | TBD |
+| Plant Lovers | Ambreyl | TBD |
+| Plant Lovers | Hilary | TBD |
 
 Client briefs and project descriptions can be found here: https://github.com/annembrown/design595/blob/main/project3-clients.md
 
