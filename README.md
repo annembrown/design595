@@ -27,7 +27,7 @@
 - **Assignment 2 Due:** Thursday, October 11<br> 
 - **Assignment 3 Due:** Thursday, October 27 (Deadline extended to Tuesday Nov. 15)<br>
 - **Reading Week:** November 7–11 <br>
-- **Project 2 Due:** Thursday, November 17<br> (Deadline extended to Tuesday Nov. 22)
+- **Project 2 Due:** Thursday, November 17 (Deadline extended to Tuesday Nov. 22)<br> 
 - **Last Day of Classes:** Thursday, December 8 <br>
 - **Project 3 Due & Portfolio Hand-in:** Thursday, December 15 at 4:00PM <br>
 - **Interviews:** Tuesday, December 20 from 1:00–5:00PM <br>
