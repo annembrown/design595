@@ -77,7 +77,7 @@ You won't have access to all the brand materials of visual materials that you mi
 **Present Research Report (As Groups):** Thursday, October 20 <br>
 **Present Planning Deliverables & Crit (As Individuals):** Tuesday, November 1 <br>
 *(Reading Week November 7 – 11)*  
-**Project Due:** Thursday, November 17 
+**Project Due:** Thursday, November 17 (Deadline extended to Tuesday Nov. 22)
 
 ## Clients & Teams
 | Client | Designer | Designer |
