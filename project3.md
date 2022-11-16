@@ -103,7 +103,6 @@ Client briefs and project descriptions can be found here: https://github.com/ann
 #### UX Design
 - [Creating Successful Product Flows](https://medium.com/@ryanglasgow/creating-successful-product-flows-c41ffbce49a1#.gwnuwmgkz)
 - [Designing Case Studies: Showcasing A Human-Centered Design Process](http://www.smashingmagazine.com/2015/02/designing-case-studies-human-centered-design-process/)  
-- [7 Tips for Writing More Compelling Case Studies](https://blog.prototypr.io/7-tips-for-writing-more-compelling-case-studies-f479c76f068b)
 - [How to Create a Powerful Case Study for Your UX Portfolio](https://medium.com/@userfocus/how-to-create-a-powerful-case-study-for-your-ux-portfolio-1c721f58a2d2)
 
 #### Examples of Similar Projects
@@ -111,3 +110,5 @@ Client briefs and project descriptions can be found here: https://github.com/ann
 - [Google Design Exercise 2019](https://blog.prototypr.io/google-design-exercise-8c25a93dcdbc)
 - [Solutions to Google Design Exercise and Challenge](https://www.casestudy.club/journal/google-design-exercise)
 - [beINvolved](https://www.jiaqizhuo.com/google-design-exercise-2019)
+- [Behance Example Case Studies](https://www.behance.net/search/projects?search=%23UX+case+study&sort=recommended&time=month)
+
