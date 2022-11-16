@@ -91,11 +91,11 @@ Get photography from places like Unsplash or other free stock sources. For produ
 | Coffee Subscription | Lindsay | Katie |
 | Clothing Box | Hanna | Tracy |
 | Food Surprise | Keltyn | Hilary |
-| Food Surprise | Sofia | Keltyn |
-| Pet Adoption | Michelle | Ambreyl |
-| Plant Lovers | Ambreyl | Rachel |
-| Plant Lovers | Hilary | Winnie |
-| TBD | Katie | Laura |
+| Food Surprise | Sofia | Ambreyl |
+| Pet Adoption | Michelle | Keltyn |
+| Pet Adoption | Katie | Rachel |
+| Plant Lovers | Ambreyl | Winnie |
+| Plant Lovers | Hilary | Laura |
 
 Client briefs and project descriptions can be found here: https://github.com/annembrown/design595/blob/main/project3-clients.md
 
