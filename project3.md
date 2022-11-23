@@ -104,6 +104,7 @@ Client briefs and project descriptions can be found here: https://github.com/ann
 - [Creating Successful Product Flows](https://medium.com/@ryanglasgow/creating-successful-product-flows-c41ffbce49a1#.gwnuwmgkz)
 - [Designing Case Studies: Showcasing A Human-Centered Design Process](http://www.smashingmagazine.com/2015/02/designing-case-studies-human-centered-design-process/)  
 - [How to Create a Powerful Case Study for Your UX Portfolio](https://medium.com/@userfocus/how-to-create-a-powerful-case-study-for-your-ux-portfolio-1c721f58a2d2)
+- [Figma Stylesheet Template](https://www.figma.com/file/szweegqaojoIybtTb2cgKw/Website-Design-Process?node-id=245%3A3&t=va0Yw3MrQ6YUl2LC-1)
 
 #### Examples of Similar Projects
 - [Google Interaction Design Challenge Tips](https://uxdesign.cc/google-interaction-design-challenge-90a6837f7654)
